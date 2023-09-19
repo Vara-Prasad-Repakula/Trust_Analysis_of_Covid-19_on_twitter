@@ -2,7 +2,8 @@
 
 # Trust Analysis 😇😒 of Covid-19 Vaccines on twitter
 ---
-###About this Project🌍💻
+
+### About this Project🌍💻
 This project focuses on the trust of common people regarding ***Covishield*** and ***Covaxin*** vaccines 💉 on Twitter platform, Python language is used to *scrape* the tweets regarding the two vaccines and performed ***sentimental analysis*** 😑 on the scraped data and finally, the data is visualised using the *tableau* tool to discover the insights from the data.
 ---
 ### Tools Involved ⚔️
